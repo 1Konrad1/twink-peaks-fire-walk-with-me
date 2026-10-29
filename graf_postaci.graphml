@@ -1,0 +1,880 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="DESMOND">
+  <data key="d0">DESMOND</data>
+</node>
+<node id="STANLEY">
+  <data key="d0">STANLEY</data>
+</node>
+<node id="LAURA">
+  <data key="d0">LAURA</data>
+</node>
+<node id="LELAND">
+  <data key="d0">LELAND</data>
+</node>
+<node id="DONNA">
+  <data key="d0">DONNA</data>
+</node>
+<node id="SARAH">
+  <data key="d0">SARAH</data>
+</node>
+<node id="JAMES">
+  <data key="d0">JAMES</data>
+</node>
+<node id="COLE">
+  <data key="d0">COLE</data>
+</node>
+<node id="CARL">
+  <data key="d0">CARL</data>
+</node>
+<node id="BOBBY">
+  <data key="d0">BOBBY</data>
+</node>
+<node id="VOICE">
+  <data key="d0">VOICE</data>
+</node>
+<node id="BOB">
+  <data key="d0">BOB</data>
+</node>
+<node id="COOPER">
+  <data key="d0">COOPER</data>
+</node>
+<node id="CHET">
+  <data key="d0">CHET</data>
+</node>
+<node id="CLIFF">
+  <data key="d0">CLIFF</data>
+</node>
+<node id="CABLE">
+  <data key="d0">CABLE</data>
+</node>
+<node id="ALBERT">
+  <data key="d0">ALBERT</data>
+</node>
+<node id="JACQUES">
+  <data key="d0">JACQUES</data>
+</node>
+<node id="TERESA">
+  <data key="d0">TERESA</data>
+</node>
+<node id="BELLHOP">
+  <data key="d0">BELLHOP</data>
+</node>
+<node id="JEFFRIES">
+  <data key="d0">JEFFRIES</data>
+</node>
+<node id="TREMOND">
+  <data key="d0">TREMOND</data>
+</node>
+<node id="GRANDSON">
+  <data key="d0">GRANDSON</data>
+</node>
+<node id="EILEEN">
+  <data key="d0">EILEEN</data>
+</node>
+<node id="TRUCKER">
+  <data key="d0">TRUCKER</data>
+</node>
+<node id="ED">
+  <data key="d0">ED</data>
+</node>
+<node id="NADINE">
+  <data key="d0">NADINE</data>
+</node>
+<node id="SHELLY">
+  <data key="d0">SHELLY</data>
+</node>
+<node id="NORMA">
+  <data key="d0">NORMA</data>
+</node>
+<node id="ANNIE">
+  <data key="d0">ANNIE</data>
+</node>
+<node id="TOMMY">
+  <data key="d0">TOMMY</data>
+</node>
+<node id="GERARD">
+  <data key="d0">GERARD</data>
+</node>
+<node id="ANDY">
+  <data key="d0">ANDY</data>
+</node>
+<node id="TRUMAN">
+  <data key="d0">TRUMAN</data>
+</node>
+<node id="JACK">
+  <data key="d0">JACK</data>
+</node>
+<node id="IRENE">
+  <data key="d0">IRENE</data>
+</node>
+<node id="OLD GUY">
+  <data key="d0">OLD GUY</data>
+</node>
+<node id="WOMAN">
+  <data key="d0">WOMAN</data>
+</node>
+<node id="HEAD CLERK">
+  <data key="d0">HEAD CLERK</data>
+</node>
+<node id="FIRST WOODSMAN">
+  <data key="d0">FIRST WOODSMAN</data>
+</node>
+<node id="MIKE">
+  <data key="d0">MIKE</data>
+</node>
+<node id="SECOND WOODSMAN">
+  <data key="d0">SECOND WOODSMAN</data>
+</node>
+<node id="TREMOND'S GRANDSON">
+  <data key="d0">TREMOND'S GRANDSON</data>
+</node>
+<node id="ADMIRERS">
+  <data key="d0">ADMIRERS</data>
+</node>
+<node id="BRIGGS">
+  <data key="d0">BRIGGS</data>
+</node>
+<node id="HAROLD">
+  <data key="d0">HAROLD</data>
+</node>
+<node id="TOAD">
+  <data key="d0">TOAD</data>
+</node>
+<node id="DOC">
+  <data key="d0">DOC</data>
+</node>
+<node id="LEO">
+  <data key="d0">LEO</data>
+</node>
+<node id="LOG LADY">
+  <data key="d0">LOG LADY</data>
+</node>
+<node id="BUCK">
+  <data key="d0">BUCK</data>
+</node>
+<node id="RONETTE">
+  <data key="d0">RONETTE</data>
+</node>
+<node id="SPARKY">
+  <data key="d0">SPARKY</data>
+</node>
+<node id="JOSIE">
+  <data key="d0">JOSIE</data>
+</node>
+<node id="MECHANIC">
+  <data key="d0">MECHANIC</data>
+</node>
+<node id="BEN">
+  <data key="d0">BEN</data>
+</node>
+<node id="JERRY">
+  <data key="d0">JERRY</data>
+</node>
+<node id="JOHNNY">
+  <data key="d0">JOHNNY</data>
+</node>
+<node id="SYLVIA">
+  <data key="d0">SYLVIA</data>
+</node>
+<node id="HAWK">
+  <data key="d0">HAWK</data>
+</node>
+<node id="PETE">
+  <data key="d0">PETE</data>
+</node>
+<node id="JACOBY">
+  <data key="d0">JACOBY</data>
+</node>
+<node id="BETTY">
+  <data key="d0">BETTY</data>
+</node>
+<node id="LUCY">
+  <data key="d0">LUCY</data>
+</node>
+<node id="MEDIC">
+  <data key="d0">MEDIC</data>
+</node>
+<node id="NURSE">
+  <data key="d0">NURSE</data>
+</node>
+<edge source="DESMOND" target="STANLEY">
+  <data key="d1">13</data>
+</edge>
+<edge source="DESMOND" target="COLE">
+  <data key="d1">5</data>
+</edge>
+<edge source="DESMOND" target="CARL">
+  <data key="d1">5</data>
+</edge>
+<edge source="DESMOND" target="CHET">
+  <data key="d1">3</data>
+</edge>
+<edge source="DESMOND" target="CLIFF">
+  <data key="d1">3</data>
+</edge>
+<edge source="DESMOND" target="CABLE">
+  <data key="d1">3</data>
+</edge>
+<edge source="DESMOND" target="COOPER">
+  <data key="d1">2</data>
+</edge>
+<edge source="DESMOND" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="DESMOND" target="JACK">
+  <data key="d1">1</data>
+</edge>
+<edge source="DESMOND" target="IRENE">
+  <data key="d1">1</data>
+</edge>
+<edge source="DESMOND" target="OLD GUY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DESMOND" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="DESMOND" target="WOMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="CARL">
+  <data key="d1">4</data>
+</edge>
+<edge source="STANLEY" target="COLE">
+  <data key="d1">2</data>
+</edge>
+<edge source="STANLEY" target="CHET">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="IRENE">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="OLD GUY">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="CLIFF">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="WOMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="CABLE">
+  <data key="d1">1</data>
+</edge>
+<edge source="STANLEY" target="COOPER">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="LELAND">
+  <data key="d1">11</data>
+</edge>
+<edge source="LAURA" target="DONNA">
+  <data key="d1">10</data>
+</edge>
+<edge source="LAURA" target="SARAH">
+  <data key="d1">8</data>
+</edge>
+<edge source="LAURA" target="JAMES">
+  <data key="d1">6</data>
+</edge>
+<edge source="LAURA" target="BOBBY">
+  <data key="d1">5</data>
+</edge>
+<edge source="LAURA" target="VOICE">
+  <data key="d1">5</data>
+</edge>
+<edge source="LAURA" target="BOB">
+  <data key="d1">5</data>
+</edge>
+<edge source="LAURA" target="JACQUES">
+  <data key="d1">3</data>
+</edge>
+<edge source="LAURA" target="EILEEN">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="TRUCKER">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="SHELLY">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="TREMOND">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="ANNIE">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="TOMMY">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="TERESA">
+  <data key="d1">2</data>
+</edge>
+<edge source="LAURA" target="HAROLD">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="ED">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="NADINE">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="NORMA">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="WOMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="COOPER">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="LOG LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="BUCK">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="RONETTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="GERARD">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="MECHANIC">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="BEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="CLIFF">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="JACOBY">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="BETTY">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="BRIGGS">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAURA" target="NURSE">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="SARAH">
+  <data key="d1">3</data>
+</edge>
+<edge source="LELAND" target="DONNA">
+  <data key="d1">3</data>
+</edge>
+<edge source="LELAND" target="BOB">
+  <data key="d1">3</data>
+</edge>
+<edge source="LELAND" target="VOICE">
+  <data key="d1">2</data>
+</edge>
+<edge source="LELAND" target="GERARD">
+  <data key="d1">2</data>
+</edge>
+<edge source="LELAND" target="TERESA">
+  <data key="d1">2</data>
+</edge>
+<edge source="LELAND" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="EILEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="JAMES">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="MECHANIC">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="BEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="JERRY">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="JOHNNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="LELAND" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="EILEEN">
+  <data key="d1">2</data>
+</edge>
+<edge source="DONNA" target="VOICE">
+  <data key="d1">2</data>
+</edge>
+<edge source="DONNA" target="TOMMY">
+  <data key="d1">2</data>
+</edge>
+<edge source="DONNA" target="JACQUES">
+  <data key="d1">2</data>
+</edge>
+<edge source="DONNA" target="ADMIRERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="TRUCKER">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="BUCK">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="BOB">
+  <data key="d1">1</data>
+</edge>
+<edge source="DONNA" target="RONETTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SARAH" target="BOB">
+  <data key="d1">1</data>
+</edge>
+<edge source="SARAH" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SARAH" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="JAMES" target="BOBBY">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="COOPER">
+  <data key="d1">4</data>
+</edge>
+<edge source="COLE" target="CHET">
+  <data key="d1">3</data>
+</edge>
+<edge source="COLE" target="ALBERT">
+  <data key="d1">3</data>
+</edge>
+<edge source="COLE" target="TERESA">
+  <data key="d1">2</data>
+</edge>
+<edge source="COLE" target="JEFFRIES">
+  <data key="d1">2</data>
+</edge>
+<edge source="COLE" target="BOB">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLE" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="CARL" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="CARL" target="CLIFF">
+  <data key="d1">1</data>
+</edge>
+<edge source="CARL" target="WOMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="CARL" target="CHET">
+  <data key="d1">1</data>
+</edge>
+<edge source="CARL" target="COOPER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOBBY" target="BRIGGS">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOBBY" target="JACQUES">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOBBY" target="CLIFF">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="BOB">
+  <data key="d1">4</data>
+</edge>
+<edge source="VOICE" target="JACQUES">
+  <data key="d1">2</data>
+</edge>
+<edge source="VOICE" target="TERESA">
+  <data key="d1">2</data>
+</edge>
+<edge source="VOICE" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="EILEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="RONETTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="ANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="LUCY">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="TRUMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="ALBERT">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="COOPER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="JEFFRIES">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="JACQUES">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="RONETTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOB" target="GERARD">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="ALBERT">
+  <data key="d1">3</data>
+</edge>
+<edge source="COOPER" target="JEFFRIES">
+  <data key="d1">2</data>
+</edge>
+<edge source="COOPER" target="TREMOND">
+  <data key="d1">2</data>
+</edge>
+<edge source="COOPER" target="CHET">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="ANNIE">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="COOPER" target="TRUMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHET" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="CLIFF" target="WOMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="CLIFF" target="CABLE">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="JEFFRIES">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALBERT" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALBERT" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACQUES" target="RONETTE">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACQUES" target="TERESA">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACQUES" target="LEO">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="JEFFRIES">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="TERESA" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="BELLHOP" target="JEFFRIES">
+  <data key="d1">2</data>
+</edge>
+<edge source="BELLHOP" target="HEAD CLERK">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="HEAD CLERK">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="TREMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFRIES" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="GRANDSON">
+  <data key="d1">2</data>
+</edge>
+<edge source="TREMOND" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="SHELLY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TREMOND" target="ANNIE">
+  <data key="d1">1</data>
+</edge>
+<edge source="GRANDSON" target="FIRST WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GRANDSON" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="GRANDSON" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GRANDSON" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="GRANDSON" target="SHELLY">
+  <data key="d1">1</data>
+</edge>
+<edge source="EILEEN" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUCKER" target="TOMMY">
+  <data key="d1">1</data>
+</edge>
+<edge source="ED" target="NADINE">
+  <data key="d1">2</data>
+</edge>
+<edge source="ED" target="NORMA">
+  <data key="d1">1</data>
+</edge>
+<edge source="ED" target="SHELLY">
+  <data key="d1">1</data>
+</edge>
+<edge source="ED" target="SPARKY">
+  <data key="d1">1</data>
+</edge>
+<edge source="ED" target="PETE">
+  <data key="d1">1</data>
+</edge>
+<edge source="NADINE" target="NORMA">
+  <data key="d1">1</data>
+</edge>
+<edge source="NADINE" target="SHELLY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SHELLY" target="NORMA">
+  <data key="d1">2</data>
+</edge>
+<edge source="SHELLY" target="TOAD">
+  <data key="d1">1</data>
+</edge>
+<edge source="SHELLY" target="LEO">
+  <data key="d1">1</data>
+</edge>
+<edge source="NORMA" target="TOAD">
+  <data key="d1">1</data>
+</edge>
+<edge source="ANNIE" target="NURSE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TOMMY" target="BUCK">
+  <data key="d1">1</data>
+</edge>
+<edge source="TOMMY" target="ANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TOMMY" target="HAWK">
+  <data key="d1">1</data>
+</edge>
+<edge source="TOMMY" target="TRUMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GERARD" target="MECHANIC">
+  <data key="d1">1</data>
+</edge>
+<edge source="ANDY" target="TRUMAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="ANDY" target="HAWK">
+  <data key="d1">1</data>
+</edge>
+<edge source="ANDY" target="LUCY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="JOSIE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="HAWK">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="LUCY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="DOC">
+  <data key="d1">1</data>
+</edge>
+<edge source="IRENE" target="OLD GUY">
+  <data key="d1">1</data>
+</edge>
+<edge source="FIRST WOODSMAN" target="MIKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="FIRST WOODSMAN" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="FIRST WOODSMAN" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="MIKE" target="SECOND WOODSMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="MIKE" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="MIKE" target="ADMIRERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="SECOND WOODSMAN" target="TREMOND'S GRANDSON">
+  <data key="d1">1</data>
+</edge>
+<edge source="BRIGGS" target="BETTY">
+  <data key="d1">1</data>
+</edge>
+<edge source="BEN" target="JERRY">
+  <data key="d1">1</data>
+</edge>
+<edge source="BEN" target="JOHNNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="BEN" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="JERRY" target="JOHNNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="JERRY" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="JOHNNY" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="MEDIC" target="NURSE">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
